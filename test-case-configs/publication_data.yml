@@ -1,5 +1,0 @@
-# Publication config
-dataSources:
-    CES: https://ces.itec.kit.edu/63.php
-
-refreshTime: 500

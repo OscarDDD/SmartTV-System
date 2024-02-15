@@ -1,7 +1,0 @@
-# Layout E
-layout:
-  root:
-    widget: image
-    properties:
-      switch_interval: 5
-      album_id: 1

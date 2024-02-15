@@ -1,8 +1,0 @@
-# Calendar config invalid
-externalCalendarConfig:
-- !!com.pse.calendarPlugin.data.CalendarConfig
-  name: calendar1
-  url: https://example.org/invalid/iCAL/url
-  color: #ff00ff
-
-refreshTime: 60

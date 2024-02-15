@@ -1,8 +1,0 @@
-# Calendar config valid
-externalCalendarConfig:
-- !!com.pse.calendarPlugin.data.CalendarConfig
-  name: calendar1
-  url: https://calendar.google.com/calendar/ical/22s6ru3r4dks7c547vq17g8olo%40group.calendar.google.com/private-51dc15b24dc43b867b38a4b0b695cbea/basic.ics
-  color: #ff00ff
-
-refreshTime: 60
