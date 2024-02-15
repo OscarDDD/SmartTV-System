@@ -1,0 +1,21 @@
+# General A
+default_timezone: 'Europe/Berlin'
+alternative_timezones: []
+
+available_langauges:
+- english
+- german
+
+languages:
+- english
+
+language_switch_interval: 0
+
+date_format: 'LANGUAGE'
+
+available_themes:
+- light
+- dark
+
+themes:
+- theme: light

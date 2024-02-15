@@ -1,0 +1,6 @@
+# Layout D
+layout:
+  root:
+    widget: clock
+    properties:
+      always_display_timezone_name: true

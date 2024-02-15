@@ -1,0 +1,20 @@
+# Plugins A
+available_data_plugins:
+- cafeteria
+- calendar
+- publication
+- image
+
+available_frontend_plugins:
+- clock
+- cafeteria
+- calendar
+- publication
+- image
+
+active_frontend_plugins:
+- clock
+- cafeteria
+- calendar
+- publication
+- image

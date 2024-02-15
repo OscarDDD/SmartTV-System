@@ -1,0 +1,16 @@
+# Layout A
+layout:
+  root:
+    vsplit:
+      ratio: 0.5
+      bottom:
+        widget: clock
+        properties:
+          timezone: 'Europe/Berlin'
+      top:
+        hsplit:
+          ratio: 0.5
+          left:
+            widget: cafeteria
+          right:
+            widget: calendar

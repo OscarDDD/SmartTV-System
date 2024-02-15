@@ -1,0 +1,14 @@
+# Layout B
+layout:
+  root:
+    vsplit:
+      ratio: 0.5
+      bottom:
+        widget: clock
+        properties:
+          timezone: 'Europe/Berlin'
+      top:
+        widget: cafeteria
+        from_time: [10, 0]
+        to_time: [13, 0]
+
